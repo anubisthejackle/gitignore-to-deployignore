@@ -9,6 +9,15 @@ By runing G2D in the root of your project, it will automatically locate, and con
 It's an easy to use tool, that automates some of the tedium of creating a .deployignore file.
 
 ## How to use
+
+First install the script by copying it to your /usr/bin directory, and make sure it is executable.
+
 ```
-~/project/root # g2d
+# cp g2d.sh /usr/bin/g2d
+# chmod a+x /usr/bin/g2d
+```
+
+Then, froom your project root, run it:
+```
+# g2d
 ```
