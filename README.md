@@ -18,6 +18,7 @@ First install the script by copying it to your /usr/bin directory, and make sure
 ```
 
 Then, froom your project root, run it:
+
 ```
 # g2d
 ```
